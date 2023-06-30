@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.252e3c2d.chunk.css",
+    "main.js": "/static/js/main.f14dddd9.chunk.js",
+    "main.js.map": "/static/js/main.f14dddd9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f7f5956.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f7f5956.js.map",
+    "static/js/2.7756a353.chunk.js": "/static/js/2.7756a353.chunk.js",
+    "static/js/2.7756a353.chunk.js.map": "/static/js/2.7756a353.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.252e3c2d.chunk.css.map": "/static/css/main.252e3c2d.chunk.css.map",
+    "static/js/2.7756a353.chunk.js.LICENSE.txt": "/static/js/2.7756a353.chunk.js.LICENSE.txt",
+    "static/media/G.fa271c96.png": "/static/media/G.fa271c96.png",
+    "static/media/award03.b02264bc.png": "/static/media/award03.b02264bc.png",
+    "static/media/App.css": "/static/media/bg.3d421b1b.png",
+    "static/media/chef.2a98a460.png": "/static/media/chef.2a98a460.png",
+    "static/media/chef2.930c038f.png": "/static/media/chef2.930c038f.png",
+    "static/media/findus.a1925a30.png": "/static/media/findus.a1925a30.png",
+    "static/media/gallery01.3418cd37.png": "/static/media/gallery01.3418cd37.png",
+    "static/media/gallery02.e609da80.png": "/static/media/gallery02.e609da80.png",
+    "static/media/gallery03.23fba8f5.png": "/static/media/gallery03.23fba8f5.png",
+    "static/media/gallery04.0d5d72da.png": "/static/media/gallery04.0d5d72da.png",
+    "static/media/gericht.4c0c82e3.png": "/static/media/gericht.4c0c82e3.png",
+    "static/media/laurels.85f350d6.png": "/static/media/laurels.85f350d6.png",
+    "static/media/logo.0286194c.png": "/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.4806ddbd.png": "/static/media/menu.4806ddbd.png",
+    "static/media/overlaybg.165362ee.png": "/static/media/overlaybg.165362ee.png",
+    "static/media/sign.9bf0bd90.png": "/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.75694e17.svg": "/static/media/spoon.75694e17.svg",
+    "static/media/welcome.e3a0ee20.png": "/static/media/welcome.e3a0ee20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f7f5956.js",
+    "static/js/2.7756a353.chunk.js",
+    "static/css/main.252e3c2d.chunk.css",
+    "static/js/main.f14dddd9.chunk.js"
+  ]
+}
