@@ -131,3 +131,26 @@
         width: 110px;
     }
 }
+
+.app__navbar-login ul {
+    list-style-type: none; /* Removes the bullet points */
+    display: flex;        /* Puts elements in a row */
+    padding: 0;           /* Removes padding */
+  }
+
+  .app__navbar-login ul li {
+    margin-right: 10px;   /* Adds some spacing between the buttons */
+  }
+
+  .app__navbar-login ul li button {
+    border: none;         /* Removes border */
+    background: none;     /* Removes default button background */
+    cursor: pointer;      /* Makes it look clickable */
+    text-decoration: underline; /* Adds underline */
+    color: inherit;       /* Inherits color from parent element */
+    font: inherit;        /* Inherits font from parent element */
+  }
+
+  .app__navbar-login ul li button:focus {
+    outline: none;        /* Removes focus outline */
+  }

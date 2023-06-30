@@ -1,0 +1,212 @@
+{
+  "aboutus.button": {
+    "defaultMessage": "Know More"
+  },
+  "aboutus.description": {
+    "defaultMessage": "A gem nestled in the heart of Geneva. Des Trois Rois, our roots are steeped in the rich culinary traditions of Switzerland, France and the Iberian Peninsula, but we proudly offer a diverse menu that traverses the European continent. Enjoy a meal at our restaurant counter or al fresco on the terrace, and let our attentive staff handle the rest."
+  },
+  "aboutus.history.button": {
+    "defaultMessage": "Know More"
+  },
+  "aboutus.history.description": {
+    "defaultMessage": "Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet."
+  },
+  "aboutus.history.title": {
+    "defaultMessage": "Our History"
+  },
+  "aboutus.title": {
+    "defaultMessage": ""
+  },
+  "chef.believe": {
+    "defaultMessage": "At noon and in the evening"
+  },
+  "chef.description": {
+    "defaultMessage": ""
+  },
+  "chef.name": {
+    "defaultMessage": "Antônio"
+  },
+  "chef.quote": {
+    "defaultMessage": "Keep an eye out for our changing, seasonal, and weekly specials for a pleasant surprise. Not just a restaurant, we are also a meeting place where you can unwind with a freshly tapped beer or a well-mixed cocktail. Whether you're dropping by for a quick lunch or a leisurely dinner, your satisfaction is our commitment."
+  },
+  "chef.role": {
+    "defaultMessage": "Chef & Founder"
+  },
+  "chef.title": {
+    "defaultMessage": "Plat du jour"
+  },
+  "contact.address": {
+    "defaultMessage": "Rue de Berne 44, Geneva 1201 Switzerland"
+  },
+  "contact.findus": {
+    "defaultMessage": "Find Us"
+  },
+  "contact.openinghours": {
+    "defaultMessage": "Opening Hours"
+  },
+  "contact.title": {
+    "defaultMessage": "Contact"
+  },
+  "contact.visitus": {
+    "defaultMessage": "Visit Us"
+  },
+  "contact.weekdayhours": {
+    "defaultMessage": "Tue - Sat: 08:30 am - 12:00 am"
+  },
+  "contact.weekdayhours2": {
+    "defaultMessage": "We kindly request our esteemed guests to make their reservations exclusively by telephone. This ensures we can provide you with personalized service and promptly address any queries or special requests you may have."
+  },
+  "contact.weekendhours": {
+    "defaultMessage": "Monday: closed"
+  },
+  "contact.weekendhours2": {
+    "defaultMessage": "Sun: 09:00 am - 12:00 am"
+  },
+  "contact.weekendhours3": {
+    "defaultMessage": "Our Kitchen is closed between 14:30 and 18:45"
+  },
+  "footer.address": {
+    "defaultMessage": "Rue de Berne 44, Geneva 1201 Switzerland"
+  },
+  "footer.contactUs": {
+    "defaultMessage": "Contact Us"
+  },
+  "footer.copyright": {
+    "defaultMessage": "2023 Cafe Restaurant Des Trois Rois. All Rights reserved."
+  },
+  "footer.phone1": {
+    "defaultMessage": "+41 22 738 24 69"
+  },
+  "footer.quote": {
+    "defaultMessage": "The best way to find yourself is to lose yourself in the service of others."
+  },
+  "footer.weekdayHours": {
+    "defaultMessage": "closed"
+  },
+  "footer.weekdays": {
+    "defaultMessage": "Monday:"
+  },
+  "footer.weekend": {
+    "defaultMessage": "Tue - Sat:"
+  },
+  "footer.weekend2": {
+    "defaultMessage": "Sun:"
+  },
+  "footer.weekendHours": {
+    "defaultMessage": "08:30 am - 12:00 am"
+  },
+  "footer.weekendHours2": {
+    "defaultMessage": "09:00 am - 12:00 am"
+  },
+  "footer.workingHours": {
+    "defaultMessage": "Working Hours"
+  },
+  "gallery.description": {
+    "defaultMessage": ""
+  },
+  "gallery.heading": {
+    "defaultMessage": ""
+  },
+  "gallery.subheading": {
+    "defaultMessage": "Culinary favorites, as celebrated by our customers"
+  },
+  "gallery.viewMore": {
+    "defaultMessage": "View More"
+  },
+  "header.description": {
+    "defaultMessage": "Explore the culinary treasures of Europe with our carefully curated menu, designed to celebrate its vibrant heritage."
+  },
+  "header.exploreMenu": {
+    "defaultMessage": "View Full Menu"
+  },
+  "header.heading": {
+    "defaultMessage": "A Celebration of Gastronomic Diversity"
+  },
+  "header.subheading": {
+    "defaultMessage": "Cafe Restaurant des Trois Rois"
+  },
+  "menu.beers.heading": {
+    "defaultMessage": "Beers"
+  },
+  "menu.cocktails.heading": {
+    "defaultMessage": "Cocktails"
+  },
+  "menu.drinks.heading": {
+    "defaultMessage": "Our Wines and Drinks"
+  },
+  "menu.drinks.subheading": {
+    "defaultMessage": ""
+  },
+  "menu.fish.heading": {
+    "defaultMessage": "Nos Poissons (Our Fish)"
+  },
+  "menu.heading": {
+    "defaultMessage": "Our Menu"
+  },
+  "menu.meat.heading": {
+    "defaultMessage": "Nos Viandes (Our Meat)"
+  },
+  "menu.omelettes.heading": {
+    "defaultMessage": "Omelettes"
+  },
+  "menu.pasta.heading": {
+    "defaultMessage": "Pâtes (Pasta)"
+  },
+  "menu.salads.heading": {
+    "defaultMessage": "Salades Gourmandes (Gourmet Salads)"
+  },
+  "menu.specialties.heading": {
+    "defaultMessage": "Spécialités (Minimum 2 Persons)"
+  },
+  "menu.starters.heading": {
+    "defaultMessage": "Soupes et Entrées (Starters)"
+  },
+  "menu.subheading": {
+    "defaultMessage": ""
+  },
+  "menu.wine.red": {
+    "defaultMessage": "Red Wine Bottles"
+  },
+  "menu.wine.rose": {
+    "defaultMessage": "Rosé Wine Bottles"
+  },
+  "menu.wine.white": {
+    "defaultMessage": "White Wine Bottles"
+  },
+  "navbar.about": {
+    "defaultMessage": "About"
+  },
+  "navbar.awards": {
+    "defaultMessage": "Our Services"
+  },
+  "navbar.bookTable": {
+    "defaultMessage": "Book Table"
+  },
+  "navbar.contact": {
+    "defaultMessage": "Contact / Reservations"
+  },
+  "navbar.home": {
+    "defaultMessage": "Home"
+  },
+  "navbar.login": {
+    "defaultMessage": "Log In / Registration"
+  },
+  "navbar.menu": {
+    "defaultMessage": "Menu"
+  },
+  "newsletter.email": {
+    "defaultMessage": "Enter your email address"
+  },
+  "newsletter.subscribe": {
+    "defaultMessage": "Subscribe"
+  },
+  "reservations.callus": {
+    "defaultMessage": "Call us"
+  },
+  "reservations.phone": {
+    "defaultMessage": "+41 22 738 24 69"
+  },
+  "reservations.title": {
+    "defaultMessage": "Reservations"
+  }
+}

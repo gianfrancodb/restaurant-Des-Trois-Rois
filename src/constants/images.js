@@ -20,10 +20,13 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import award04 from '../assets/award04.png';
+import chef2 from '../assets/chef2.png';
 
 export default {
   bg,
   chef,
+  chef2,
   G,
   gallery01,
   gallery02,
@@ -40,6 +43,7 @@ export default {
   award01,
   award02,
   award03,
+  award04,
   award05,
   sign,
   quote,

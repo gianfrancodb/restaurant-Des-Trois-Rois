@@ -1,5 +1,6 @@
 import React from 'react';
 import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs';
+import { FormattedMessage } from 'react-intl';
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
@@ -21,10 +22,12 @@ const Gallery = () => {
   return (
     <div className="app__gallery flex__center">
       <div className="app__gallery-content">
-        <SubHeading title="Instagram" />
-        <h1 className="headtext__cormorant">Photo Gallery</h1>
-        <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem' }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat mattis ipsum turpis elit elit scelerisque egestas mu.</p>
-        <button type="button" className="custom__button">View More</button>
+        <SubHeading title={<FormattedMessage id="gallery.subheading" defaultMessage="Culinary favorites, as celebrated by our customers" />} />
+        <h1 className="headtext__cormorant"><FormattedMessage id="gallery.heading" defaultMessage=" " /></h1>
+        <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem' }}>
+          <FormattedMessage id="gallery.description" defaultMessage=" " />
+        </p>
+        <button type="button" className="custom__button" aria-label="View More" style={{ display: 'none' }}><FormattedMessage id="gallery.viewMore" defaultMessage="View More" /></button>
       </div>
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>
@@ -36,8 +39,8 @@ const Gallery = () => {
           ))}
         </div>
         <div className="app__gallery-images_arrows">
-          <BsArrowLeftShort className="gallery__arrow-icon" onClick={() => scroll('left')} />
-          <BsArrowRightShort className="gallery__arrow-icon" onClick={() => scroll('right')} />
+          <button type="button" className="gallery__arrow-icon" onClick={() => scroll('left')} aria-label="Scroll Left"><BsArrowLeftShort /></button>
+          <button type="button" className="gallery__arrow-icon" onClick={() => scroll('right')} aria-label="Scroll Right"><BsArrowRightShort /></button>
         </div>
       </div>
     </div>
